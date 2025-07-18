@@ -71,6 +71,10 @@ This project can be adapted for a wide variety of scenarios, from individual dev
 
 [Simulation](https://gh.io/git-sms-simulation)
 
+## Setup
+
+[Step-by-step Proof of Concept](https://github.com/github/git-sms/blob/main/SETUP.md)
+
 ## ✅ Maintainers
 
 * Ashley Wolf - @ashleywolf
