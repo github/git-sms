@@ -8,7 +8,7 @@ Idea: Enabling GitHub collaboration, automation, and AI interaction via SMS text
 
 Git SMS is an open source project that shows a proof of concept to enable users to interact with GitHub and AI via SMS. Simply by texting a number you could summarize issues, pull requests, repos, and receive updates, and more.
 
-This workflow brings the power of open source and AI to people who may not have consistent access to laptops or high-speed internet.
+This workflow brings the power of open source and AI to people who may not have consistent access to laptops, smartphones, or high-speed internet.
 
 ## Why It Matters
 
