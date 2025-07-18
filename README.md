@@ -69,7 +69,7 @@ This project can be adapted for a wide variety of scenarios, from individual dev
 
 ## Demo 
 
-[Simulation](https://git-sms-bridge--ashleywolf.github.app/)
+[Simulation](https://gh.io/git-sms-simulation)
 
 ## ✅ Maintainers
 
