@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+requests
+python-dotenv
+openai
+azure-ai-inference
+tiktoken>=0.5.1
