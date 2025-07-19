@@ -75,7 +75,7 @@ This project can be adapted for a wide variety of scenarios, from individual dev
 
 [Step-by-step Proof of Concept](https://github.com/github/git-sms/blob/main/SETUP.md)
 
-## ✅ Maintainers
+## Maintainers
 
 * Ashley Wolf - @ashleywolf
 * Dan Velton - @dvelton
