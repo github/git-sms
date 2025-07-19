@@ -77,5 +77,5 @@ This project can be adapted for a wide variety of scenarios, from individual dev
 
 ## Maintainers
 
-* Ashley Wolf - @ashleywolf
-* Dan Velton - @dvelton
+* [Ashley Wolf](https://github.com/ashleywolf)
+* [Dan Velton](https://github.com/dvelton)
