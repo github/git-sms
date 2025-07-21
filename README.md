@@ -69,7 +69,7 @@ This project can be adapted for a wide variety of scenarios, from individual dev
 
 ## Demo 
 
-[Simulation](https://gh.io/git-sms-simulation)
+[Prototype Simulation](https://gh.io/git-sms-simulation)
 
 ## Setup
 
